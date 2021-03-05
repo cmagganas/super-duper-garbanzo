@@ -1,2 +1,2 @@
 # super-duper-garbanzo
-the git repo depot
+git repo depot
